@@ -24,16 +24,21 @@ Main Id = @SAHILDUDHAL21
 ![](https://github-readme-stats.vercel.app/api?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahilDProjects&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SahilDProjects&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
 [![](https://visitcount.itsvg.in/api?id=SahilDProjects&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
+
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
