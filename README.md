@@ -20,7 +20,7 @@ Main Id = @SAHILDUDHAL21
 ![](https://github-profile-trophy.vercel.app/?username=SahilDProjects&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahilDProjects&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
