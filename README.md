@@ -43,4 +43,4 @@ Main Id = @SAHILDUDHAL21
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-![](https://github.com/SahilDProjects/SahilDProjects/blob/main/language.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15)
