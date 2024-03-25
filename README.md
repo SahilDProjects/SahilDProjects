@@ -25,7 +25,7 @@ Main Id = @SAHILDUDHAL21
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahilDProjects&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilDProjects&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=pie&langs_count=26)
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
@@ -43,4 +43,3 @@ Main Id = @SAHILDUDHAL21
 
 <hr style="height:3px;border-width:0;color:white;background-color:gray">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15)
